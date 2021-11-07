@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: small;
+   background-color: #F1FAFE; 
+}
+.record-btn
+{
+  transition: all .5s ease;
+  margin-left:0px;
+  border-radius:50%;
+  color:black;
+  background-color:#F1FAFE;
+  height: 40px;
+  bottom: 100px;
+ margin-top: 5%;
+ margin-left: 50%;
+ border: 2px solid #0c0c0c;
+ box-shadow: 10px 10px 5px grey;
+ background-color : transparent;
+ text-transform: uppercase;
+ line-height: 1;
+ outline: none;
+ 
+
+
+}
+record-btn:hover {
+  color: #001F3F;
+  background-color: #fff;
+}
+.video
+{
+  margin-left: 31%;
+  padding: auto;
+  margin-top: 10%;
+  border-radius: 20px 0 20px 0;
+  box-shadow: 20px 20px 10px grey;
+  
+  
+}
